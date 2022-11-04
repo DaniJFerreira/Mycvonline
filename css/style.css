@@ -36,7 +36,8 @@ h3{
   font-family: 'Montserrat';
   font-size: 30px;
   font-weight: bold;
-}
+  padding: 10px 0px;
+  }
 
 hr{
   border-style:none;
@@ -102,6 +103,10 @@ hr{
 
 /*-- middle container content--*/
 
+.carousel-inner{
+  background-color: #e0eff5;
+}
+
 .carousel-item{
 position:relative;
 }
@@ -128,6 +133,7 @@ position:relative;
   color: grey;
   font-weight: bold;
 }
+
 
 .profile p{
   text-align: justify;
@@ -162,6 +168,7 @@ position:relative;
 }
 
 .btn{
+  margin: 20px auto;
   background-image: linear-gradient(top, #a1f0de, #9ED2C6);
   background-image: linear-gradient(to bottom, #a1f0de, #9ED2C6);
   border: 0ch;
