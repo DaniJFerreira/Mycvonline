@@ -5,7 +5,7 @@ HMTL, CSS, JAVASCIPT, BOOTSTRAP, NODE.JS, EXPRESS, EJS, AWS CLOUD SERVER.
 
 ## Installation 
 
-Use the linS bellow to install the package on your porject:
+Use the links bellow to lear how to and install the packages on your porject:
 
 [![html-logo](https://user-images.githubusercontent.com/117309987/207600945-61d47d83-0125-43a3-939c-468b75dfa2b5.png)][1]
 [![css-logo](https://user-images.githubusercontent.com/117309987/207601081-e83f3292-5daa-4d3c-94c8-9feb62e4d97d.png)][2]
