@@ -25,7 +25,7 @@ Use the links bellow to learn and install the packages on your porject:
 
 ## About
 
-Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.
+
 
 ## Project images
 
