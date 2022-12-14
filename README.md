@@ -15,13 +15,13 @@ Use the linS bellow to install the package on your porject:
 ![nodejs](https://user-images.githubusercontent.com/117309987/207600855-c3536026-6099-4b85-94bd-4b251cbc00a1.png)][6][
 ![ejs](https://user-images.githubusercontent.com/117309987/207600876-b1abbd4c-42b7-47c4-892d-1998384f29e7.png)][7]
 
-[1]:https://getbootstrap.com
-[2]:https://getbootstrap.com
-[3]:https://getbootstrap.com
+[1]:https://www.w3schools.com/html/
+[2]:https://www.w3schools.com/css/
+[3]:https://www.w3schools.com/js/
 [4]:https://getbootstrap.com
-[2]:https://getbootstrap.com
-[3]:https://getbootstrap.com
-[4]:https://getbootstrap.com
+[2]:https://www.npmjs.com/
+[3]:https://nodejs.org/en/
+[4]:https://ejs.co/
 
 ## About
 
