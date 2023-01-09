@@ -1,11 +1,10 @@
 # My CV Online
 
-My CV online is an webpage portifolio that include all my recents project from bootcamps, course and creative ideas. On my portifolio uoull find projects the include:
-HMTL, CSS, JAVASCIPT, BOOTSTRAP, NODE.JS, EXPRESS, EJS, AWS CLOUD SERVER.
+The CV online is a portfolio of all my recent projects, including boot camps, courses, and creative projects. The projects in my portfolio include HMTL, CSS, JAVASCRIPT, BOOTSTRAP, NODE.JS, EXPRESS, EJS, and AWS CLOUD SERVER.
 
 ## Installation 
 
-Use the links bellow to learn and install the packages on your porject:
+The following links will help you learn more about the features and languages used on my project and how to install them:
 
 [![html-logo](https://user-images.githubusercontent.com/117309987/207600945-61d47d83-0125-43a3-939c-468b75dfa2b5.png)][1]
 [![css-logo](https://user-images.githubusercontent.com/117309987/207601081-e83f3292-5daa-4d3c-94c8-9feb62e4d97d.png)][2]
