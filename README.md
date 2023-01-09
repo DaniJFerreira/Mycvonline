@@ -6,21 +6,23 @@ The CV online is a portfolio of all my recent projects, including boot camps, co
 
 The following links will help you learn more about the features and languages used on my project and how to install them:
 
-[![html-logo](https://user-images.githubusercontent.com/117309987/207600945-61d47d83-0125-43a3-939c-468b75dfa2b5.png)][1]
-[![css-logo](https://user-images.githubusercontent.com/117309987/207601081-e83f3292-5daa-4d3c-94c8-9feb62e4d97d.png)][2]
-[![JavaScript-logo](https://user-images.githubusercontent.com/117309987/207604015-78841f62-71da-47dd-b75a-0c166c77170a.png)][3]
-[![bootstrap](https://user-images.githubusercontent.com/117309987/207600806-327a21bf-8486-44b1-a5c4-4961453b7b4e.png)][4]
+[![html](https://user-images.githubusercontent.com/117309987/210229486-9f5e01e3-3c35-4238-817a-f65bfac95378.png)][1]
+[![css3](https://user-images.githubusercontent.com/117309987/210229484-4fc2f739-1c58-48f4-ae1c-b9445d6bb90b.png)][2]
+[![bootstrap](https://user-images.githubusercontent.com/117309987/210229483-76a364a5-60ce-4b24-aa64-50e0930bbed0.png)][3]
+[![javascript](https://user-images.githubusercontent.com/117309987/210229488-f2a2488d-dc55-4ab0-b1d8-08326a315393.png)][4]
 [![npm](https://user-images.githubusercontent.com/117309987/207600837-24d7b74c-2e67-43d3-ad34-0aa1b000607d.png)][5]
 [![nodejs](https://user-images.githubusercontent.com/117309987/207600855-c3536026-6099-4b85-94bd-4b251cbc00a1.png)][6]
 [![ejs](https://user-images.githubusercontent.com/117309987/207600876-b1abbd4c-42b7-47c4-892d-1998384f29e7.png)][7]
 
+
 [1]: https://www.w3schools.com/html
 [2]: https://www.w3schools.com/css
-[3]: https://www.w3schools.com/js
-[4]: https://getbootstrap.com
+[3]: https://getbootstrap.com 
+[4]: https://www.w3schools.com/js
 [5]: https://www.npmjs.com
 [6]: https://nodejs.org/en/
 [7]: https://ejs.co/
+
 
 ## About
 
@@ -37,10 +39,7 @@ The following links will help you learn more about the features and languages us
 
 #### Mobile
 
-![mobile](https://user-images.githubusercontent.com/117309987/207176279-e3cb7aee-a819-4983-a734-eb54640caa0e.png)
-
-## Authors and acknowledgment
-
+![Screenshot 2023-01-09 153500](https://user-images.githubusercontent.com/117309987/211346354-5cabe53e-ee5f-4c48-8de1-1ba04b1f7512.jpg)
 
 
 ## License 
