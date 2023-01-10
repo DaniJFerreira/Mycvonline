@@ -12,7 +12,7 @@ The following links will help you learn more about the features and languages us
 [![javascript](https://user-images.githubusercontent.com/117309987/210229488-f2a2488d-dc55-4ab0-b1d8-08326a315393.png)][4]
 [![npm](https://user-images.githubusercontent.com/117309987/207600837-24d7b74c-2e67-43d3-ad34-0aa1b000607d.png)][5]
 [![nodejs](https://user-images.githubusercontent.com/117309987/207600855-c3536026-6099-4b85-94bd-4b251cbc00a1.png)][6]
-[![ejs](https://user-images.githubusercontent.com/117309987/207600876-b1abbd4c-42b7-47c4-892d-1998384f29e7.png)][7]
+[![ejs](https://user-images.githubusercontent.com/111529943/211550379-400fb3a9-bbbf-4316-ac54-caf57b282948.png)][7]
 
 
 [1]: https://www.w3schools.com/html
