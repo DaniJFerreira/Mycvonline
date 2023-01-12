@@ -1,4 +1,5 @@
 body{
+  width: auto;
   margin: 0;
   text-align: center;
   font-family: 'Silkscreen', sans-serif;
@@ -117,6 +118,11 @@ position:relative;
   text-align: center;
 }
 
+.skills h3{
+  padding-top: 40px;
+
+}
+
 .skill-row{
   position: relative;
   width: 900px;
@@ -127,13 +133,16 @@ position:relative;
 }
 
 .skill-row p{
-  text-align: justify;
+  text-align: left;
   font-family: 'Montserrat';
   font-size: 20px;
   color: grey;
   font-weight: bold;
 }
 
+.carousel-item h3{
+  padding-top: 50px;
+}
 
 .profile p{
   text-align: justify;
@@ -216,8 +225,22 @@ position:relative;
 
 @media (max-width: 900px){
 
+
+.mountain{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+   }
+
   .profile {
-    width: 70%;
+    text-align: center;
+    width: auto;
+    margin: 50px auto;
+    padding: 0px 30px;
+  }
+
+  .profile p{
+    text-align: center;
   }
 
   .project{
@@ -234,17 +257,30 @@ position:relative;
 
   .skill-row {
     width: 70%;
-    height: 30%;
+    height: 550px;
     margin: 50px auto 100px auto;
     text-align: center;
     line-height: 2;
     padding: 10px 10px;
   }
 
-  .skills{
-  padding: 0px 0px;
-  margin: 0px 0px;
+  .skill-row img{
+    padding-bottom: 50px;
   }
+
+  .skill-row p{
+    text-align: center; 
+  }
+
+  .skills{
+  padding-bottom: 50px;
+  margin: auto;
+  }
+
+  .skills img{
+    padding-bottom: 30px;
+  }
+  
 
   hr{
     border-style:none;
