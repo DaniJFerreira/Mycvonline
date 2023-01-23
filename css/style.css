@@ -1,4 +1,4 @@
-body{
+body, html{
   width: auto;
   margin: 0;
   text-align: center;
@@ -236,11 +236,9 @@ position:relative;
 
 @media (max-width: 900px){
 
-
 .container{
   margin: 0%;
   padding: 0%;
-
 }
 
 .top-cloud{
@@ -304,14 +302,14 @@ position:relative;
     padding-bottom: 30px;
   }
   
-
-  hr{
+  /* hr{
+    margin: auto;
     border-style:none;
     border-top-style: dotted;
     border-color: #9ED2C6;
     border-width: 7px;
     width: 4%;
-  }
+  } */
 
   .bottom-container p{
     font-size: 1rem;
