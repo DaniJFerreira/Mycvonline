@@ -203,7 +203,7 @@ position:relative;
 
 .btn:hover {
   transform: scale(1.2);
-  transition: 500ms;
+  transition: 500ms  ease-in-out;
   text-decoration: none;
   background-image: -webkit-linear-gradient(top, #25f7e9, #34d9d9);
   background-image: linear-gradient(to bottom, #25f7e9, #34d9d9);
